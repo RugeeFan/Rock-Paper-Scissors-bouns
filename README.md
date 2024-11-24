@@ -35,8 +35,9 @@ Add a screenshot of your solution here. Use tools like Snipping Tool, Lightshot,
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/RugeeFan/ecommence-product-page)
-- Live Site URL: [Live Site](https://ecommerce-product-page-main-dun.vercel.app)
+- Solution URL: [GitHub Repository](https://github.com/RugeeFan/Rock-Paper-Scissors-bouns)
+- Live Site URL: [Live Site](https://rock-paper-scissors-master-mu-wheat.vercel.app
+)
 
 ---
 
