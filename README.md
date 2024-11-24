@@ -36,8 +36,7 @@ Add a screenshot of your solution here. Use tools like Snipping Tool, Lightshot,
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/RugeeFan/Rock-Paper-Scissors-bouns)
-- Live Site URL: [Live Site](https://rock-paper-scissors-master-mu-wheat.vercel.app
-)
+- Live Site URL: [Live Site](https://rock-paper-scissors-master-sooty.vercel.app)
 
 ---
 
